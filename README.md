@@ -56,18 +56,7 @@ Write and edit chapter content
 
 Save or load projects
 
-File Structure
-
-novelist_app/
-├── main.py          # Main application entry point
-├── models/          # Data models (e.g., Project, Chapter)
-├── views/           # GUI-related code
-├── controllers/     # Logic connecting models and views
-├── data/            # Folder to store saved projects
-├── utils/           # Utility functions (e.g., file management)
-└── README.md        # Project documentation
-
-Future Enhancements
+Future Additions:
 
 Advanced Editing: Text formatting and style suggestions.
 
@@ -81,10 +70,8 @@ Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contact
 
 For questions or suggestions, please contact:
+
+Gursavakh@proton.me
